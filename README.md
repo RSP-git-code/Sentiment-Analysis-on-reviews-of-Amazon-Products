@@ -38,3 +38,5 @@ The dataset used is `Reviews.csv`, which includes:
 
 ### Install libraries:
 pip install pandas scikit-learn matplotlib
+### Dataset:
+***Kaggle***: https://www.kaggle.com/datasets/arhamrumi/amazon-product-reviews?select=Reviews.csv
