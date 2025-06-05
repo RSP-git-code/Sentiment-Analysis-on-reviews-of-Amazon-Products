@@ -40,3 +40,11 @@ The dataset used is `Reviews.csv`, which includes:
 pip install pandas scikit-learn matplotlib
 ### Dataset:
 ***Kaggle***: https://www.kaggle.com/datasets/arhamrumi/amazon-product-reviews?select=Reviews.csv
+### Sentiment Analysis Overview:
+---classification report:
+![image](https://github.com/user-attachments/assets/5d05f340-4c32-4626-a2c7-c3ca01b68b0f)
+***Sentiment Analysis Overview using Pie chart***:
+![image](https://github.com/user-attachments/assets/f76311b9-8a55-4a1a-abcb-de9bc3879626)
+
+
+    
