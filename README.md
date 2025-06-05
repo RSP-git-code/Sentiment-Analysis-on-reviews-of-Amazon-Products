@@ -41,11 +41,13 @@ pip install pandas scikit-learn matplotlib
 ### Dataset:
 ***Kaggle***: https://www.kaggle.com/datasets/arhamrumi/amazon-product-reviews?select=Reviews.csv
 ### Sentiment Analysis Overview:
-***classification report***:
+***classification report***: 
+
+
 ![image](https://github.com/user-attachments/assets/5d05f340-4c32-4626-a2c7-c3ca01b68b0f)
 
 ***Sentiment Analysis Overview using Pie chart***:
-!![image](https://github.com/user-attachments/assets/86e306be-0e4b-4333-93b6-4539db4a36fe)
+![image](https://github.com/user-attachments/assets/86e306be-0e4b-4333-93b6-4539db4a36fe)
 
 
 
